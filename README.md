@@ -2,7 +2,8 @@
 - ![logo](https://user-images.githubusercontent.com/77043443/193553031-add42aeb-63ba-4c8e-9eb3-5b5f315ccc26.png)
 - 👋 Hi, I’m @karanBRAVO (Karan Yadav)
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python and blockchain technology to solve a real world problem(that's a secret).
+- I have started coding as my hobby but now I want to be Professional Developer.
+- 🌱 I’m currently learning python and blockchain technology and many more to solve a real world problem.
 - 💞️ I’m looking to collaborate on open source project for gsoc(Google summer of code)
 - 📫 How to reach me -> mail => xpresskaran98@gmail.com
-- TRY Principle -> I always follow this thing.
+- TRY Principle -> I always follow this thing. (that's not an abbreviation it's actually what you thought)
