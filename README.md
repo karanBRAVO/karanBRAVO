@@ -13,6 +13,10 @@
 - Programming languages (C, Javascript, Python)
 - Markup languages (HTML, CSS)
 - Currently learning (React Js, Cpp)
-# Others
+# Others:
 - also worked in android app dev
 - Wanted to learn much more such as Blockchain Dev and AI and ML.
+# Operation System (OS):
+- Windows
+- Linux
+- 
