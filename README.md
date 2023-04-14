@@ -12,11 +12,11 @@
 - Natural languages (Hindi, English, Punjabi)
 - Programming languages (C, Javascript, Python)
 - Markup languages (HTML, CSS)
-- Currently learning (React Js, Cpp)
+- Currently learning (React Js, Cpp, Machine Learning)
 # Others:
 - also worked in android app dev
-- Wanted to learn much more such as Blockchain Dev and AI and ML.
+- Wanted to learn much more such as Blockchain Dev.
 # Operation System (OS):
 - Windows
 - Linux
-- 
+
