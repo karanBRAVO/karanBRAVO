@@ -14,7 +14,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World !
 <h1 align="center">Hi 👋, I'm Karan Yadav</h1>
 
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js (Next.js), Node.js, RDBMS, REST API, etc. </p>
+<p align="left">I am a Full Stack Developer, Youtube content creator, open-source contributor and Machine Learning Enthusiast with a huge love for Python, React.js (Next.js), Node.js, RDBMS, REST API, OS(Linux) </p>
 
 - 🌱 I’m currently learning **AI (Aritficial Intelligence) and Devops**
 
@@ -121,6 +121,10 @@
 
 <a href="www.youtube.com/@K.Y_KaranYadav98" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://bugzilla.mozilla.org/user_profile?user_id=762157" target="_blank">
+  <img src="https://img.shields.io/badge/Bugzilla-green?style=for-the-badge&logo=bugzilla&logoColor=white" alt=bugzilla style="margin-bottom: 5px;" />
 </a>
 
 </div>
