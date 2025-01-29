@@ -6,7 +6,9 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=karanBRAVO&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="karanBRAVO" style="padding-right:20px;" />
 </p>
-
+<p>
+  <a href="https://github.com/user-attachments/files/18586692/Karan_Yadav_Resume-1.pdf">Resume</a>
+</p>
 ---
 <br />
 
@@ -135,4 +137,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
